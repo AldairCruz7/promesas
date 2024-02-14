@@ -1,6 +1,6 @@
-/* 
+/*
 Actividad:
-1. Realizar una función realizarOperacionesAsincronas que toma un array de
+ Realizar una función realizarOperacionesAsincronas que toma un array de
  funciones que devuelven promesas. La función debe ejecutar estas operaciones 
  de forma secuencial, resolviendo cada promesa antes de pasar a la siguiente. 
  Si alguna promesa es rechazada, la función debe detenerse y rechazar con el motivo. */
